@@ -1,0 +1,16 @@
+.fondo-rosa{
+    background-color: #E83E8C;
+}
+
+.logo{
+    height: 3rem;
+}
+
+h1{
+    color: #707070;
+    font-family: 'Open Sans', sans-serif;
+}
+
+footer img{
+    width:10rem;
+}
